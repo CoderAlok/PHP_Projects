@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Bottle</title>
-	<?php include_once("layout/head.php"); ?>
+	<?php //include_once("layout/head.php"); ?>
 </head>
 <body>
 	<div class="wrapper">
